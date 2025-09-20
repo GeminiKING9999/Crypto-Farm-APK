@@ -2,7 +2,7 @@
 
 ### 📱 **How to Enable APK Installation on Android**
 
-1. **Download the latest APK** from [Releases](https://github.com/GaminKING0999/CryptoFarmApp/releases)
+1. **Download the latest APK** from [Releases](https://github.com/GeminiKING9999/crypto-farm-apk/releases)
 
 2. **Open Settings** on your phone
 
@@ -22,7 +22,7 @@
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.4-blue.svg)](https://reactnative.dev/)
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
-[![APK Size](https://img.shields.io/badge/Release%20APK-145MB-orange.svg)](https://github.com/GaminKING0999/CryptoFarmApp)
+[![APK Size](https://img.shields.io/badge/Release%20APK-145MB-orange.svg)](https://github.com/GeminiKING9999/crypto-farm-apk)
 
 🎮 **CryptoFarm Clicker Game** - Android APK built with React Native CLI (NO EXPO)
 
@@ -43,7 +43,7 @@ CryptoFarm is an addictive crypto-themed clicker game packaged as a native Andro
 
 | Build Type | Size | Download |
 |------------|------|----------|
-| **Release APK** | 145MB | [Download Latest](https://github.com/GaminKING0999/CryptoFarmApp/releases) |
+| **Release APK** | 145MB | [Download Latest](https://github.com/GeminiKING9999/crypto-farm-apk/releases) |
 
 ## 🛠️ **Technical Details**
 
@@ -85,12 +85,12 @@ CryptoFarm is an addictive crypto-themed clicker game packaged as a native Andro
 
 ## 📞 **Support**
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/GaminKING0999/CryptoFarmApp/issues)
-- 💡 **Feature Requests**: [Request a feature](https://github.com/GaminKING0999/CryptoFarmApp/issues)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/GeminiKING9999/crypto-farm-apk/issues)
+- 💡 **Feature Requests**: [Request a feature](https://github.com/GeminiKING9999/crypto-farm-apk/issues)
 
 ---
 
-**Made with ❤️ by [GaminKING0999](https://github.com/GaminKING0999)**
+**Made with ❤️ by [GeminiKING9999](https://github.com/GeminiKING9999)**
 
 🚀 **Ready to mine some crypto?** Download the APK and start clicking! 🪙
 

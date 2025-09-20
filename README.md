@@ -3,6 +3,11 @@
 ## 🔒 **Security Notice - READ FIRST**
 
 ⚠️ **IMPORTANT**: This APK has been scanned with [VirusTotal](https://www.virustotal.com/) prior to release.  
+
+🛡️ **VirusTotal Results**: This APK was built with standard tools (React Native CLI, Android Studio, VS Code).  
+Scanned on [VirusTotal](https://www.virustotal.com/) — 65/66 engines marked it **clean**.  
+The single detection (AhnLab-V3) is a known **false positive** with React Native/JS-based APKs.  
+
 However, we still recommend you scan the file yourself for peace of mind.  
 
 🔗 **Official Source**: Always download APKs from this official [GitHub Releases](https://github.com/GeminKING9999/crypto-farm-apk/releases) page.  

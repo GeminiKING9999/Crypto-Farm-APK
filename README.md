@@ -88,7 +88,7 @@ CryptoFarm is an addictive crypto-themed clicker game packaged as a native Andro
 
 ## 🎮 **Other Versions**
 
-- 🌐 **Web Version**: [Play Online](https://cryptofarmclicker.netlify.app/)
+- 🌐 **Web Version**: [Play Online](https://eclecticemporium.store/games/crypto-farm/)
 
 ## 📞 **Support**
 
